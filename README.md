@@ -1,5 +1,5 @@
 ## Olá, eu sou André!
-Estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, estou focado no desenvolvimento backend, utilizando a linguagem C#. Sou motivado por novos desafios e busco sempre expandir meus conhecimentos com projetos práticos. Em breve, espero aplicar minhas habilidades em um ambiente profissional.
+Estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, estou focado no desenvolvimento back-end, utilizando a linguagem C#. Sou motivado por novos desafios e busco sempre expandir meus conhecimentos com projetos práticos. Em breve, espero aplicar minhas habilidades em um ambiente profissional.
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLFernandesDev&theme=dark&show_icons=true"/>
