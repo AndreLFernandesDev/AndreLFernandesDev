@@ -7,11 +7,11 @@ Estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, estou focado 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Dotnet" height="30" width="40" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PostgresSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="GitHub" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img align="center" alt="Dotnet" height="30" width="40" src="https://skillicons.dev/icons?i=dotnet" />
 </div>
   
   ##
