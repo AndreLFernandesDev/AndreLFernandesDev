@@ -11,6 +11,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, estou focado 
  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PostgresSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="GitHub" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="Dotnet" height="30" width="40" src="https://skillicons.dev/icons?i=dotnet" />
 </div>
   
   ##
